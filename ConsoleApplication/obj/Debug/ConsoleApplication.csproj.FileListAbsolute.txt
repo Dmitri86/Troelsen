@@ -1,0 +1,8 @@
+D:\Net\Troelsen\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\Net\Troelsen\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\Net\Troelsen\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojAssemblyReference.cache
+D:\Net\Troelsen\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+D:\Net\Troelsen\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\Net\Troelsen\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\Net\Troelsen\ConsoleApplication\ConsoleApplication\bin\Debug\BigInteger.dll
+D:\Net\Troelsen\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CopyComplete
